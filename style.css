@@ -80,6 +80,10 @@ body {
     color: #fff;
   }
   
+  .social-links ul {
+    padding: 0;
+  }
+
   .social-links a {
     margin: 10px;
     color: white;
@@ -94,6 +98,11 @@ body {
   
   h3 {
     color: #9390ff;
+    font-family: Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
   }
   
   .Work-section h3 {
