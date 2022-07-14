@@ -17,9 +17,11 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/joa-lorenzo/)
 
 
-👤 **Dhuruv**
+👤 **Dhuruv Singh**
 
 - GitHub: [@DhuruvSingh](https://github.com/DhuruvSingh)
+- Twitter: [@Ritiksi76216487](https://twitter.com/Ritiksi76216487)
+- LinkedIn: [dhuruv-singh-a1a51aa9](https://www.linkedin.com/in/dhuruv-singh-a1a51aa9/)
 
 
 👤 **Balkhi**
@@ -41,4 +43,4 @@ This project is [MIT](./MIT.md) licensed.
 
 ## View of the page
 
-![app screenshot](./img/app_screenshot.png)
+![app screenshot](./images/screenshot.png)
